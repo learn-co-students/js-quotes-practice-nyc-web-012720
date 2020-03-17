@@ -51,8 +51,14 @@
       "author": "Sonia Sotomayor"
     },
     {
-      "quoteId": 2,
-      "id": 11
+      "quote": "Do or do not, there is no try",
+      "author": "Yoda",
+      "id": 12
+    },
+    {
+      "quote": "Hey how's it going",
+      "author": "David",
+      "id": 14
     }
   ],
   "likes": [
@@ -60,6 +66,67 @@
       "id": 1,
       "quoteId": 1,
       "createdAt": 1558524356
+    },
+    {
+      "quoteId": "10",
+      "id": 2
+    },
+    {
+      "quoteId": "10",
+      "id": 3
+    },
+    {
+      "quoteId": "10",
+      "id": 4
+    },
+    {
+      "quoteId": "10",
+      "id": 5
+    },
+    {
+      "quoteId": "1",
+      "createdAt": 1584389743754,
+      "id": 6
+    },
+    {
+      "quoteId": "2",
+      "createdAt": 1584389744611,
+      "id": 7
+    },
+    {
+      "quoteId": 1,
+      "createdAt": 1584389819376,
+      "id": 8
+    },
+    {
+      "quoteId": 1,
+      "createdAt": 1584395974936,
+      "id": 9
+    },
+    {
+      "quoteId": 1,
+      "createdAt": 1584395975092,
+      "id": 10
+    },
+    {
+      "quoteId": 1,
+      "createdAt": 1584395975253,
+      "id": 11
+    },
+    {
+      "quoteId": 2,
+      "createdAt": 1584396117606,
+      "id": 12
+    },
+    {
+      "quoteId": 2,
+      "createdAt": 1584396117774,
+      "id": 13
+    },
+    {
+      "quoteId": 3,
+      "createdAt": 1584400082675,
+      "id": 14
     }
   ]
 }
