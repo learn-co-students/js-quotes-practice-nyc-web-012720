@@ -20,8 +20,7 @@ document.addEventListener('DOMContentLoaded', () => {
 		if (event.target.className === '’btn-success’') {
 			console.log('Like Click')
 			addLike(event)
-			removeQuotesFromPage()
-			loadQuotes()
+			console.log(event.target.childNodes, 'in listener')
 		}
 	})
 })
@@ -35,7 +34,7 @@ function makeQuoteCard(quoteObject) {
       <p class="mb-0">${quoteObject.quote}</p>
       <footer class="blockquote-footer">${quoteObject.author}</footer>
       <br>
-      <button class=’btn-success’>Likes: <span>${quoteObject.likes.length}</span></button>
+      <button class=’btn-success’ id="score-${quoteObject.id}">Likes: <span class="score">${quoteObject.likes.length}</span></button>
       <button class=’btn-danger’>Delete</button>
     </blockquote>`
 	document.querySelector('.container').append(quoteCard)
@@ -109,12 +108,14 @@ function addLike(event) {
 		},
 		body: JSON.stringify(newLikeObject)
 	}
-	fetch('http://localhost:3000/likes', configObject).then(response => {
-		return response.json()
-	})
-	// .then(json => {
-	// 	event.childNodes.textContent = json[0].likes.length
-	// })
+	fetch('http://localhost:3000/likes', configObject)
+		.then(response => {
+			return response.json()
+		})
+		.then(() => {
+			console.log(event.target.childNodes, 'in fetch')
+			event.target.childNodes[1].textContent++
+		})
 }
 
 // fetch('http://localhost:3000/quotes?_embed=likes')

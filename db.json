@@ -6,11 +6,6 @@
       "author": "Ann Richards"
     },
     {
-      "id": 2,
-      "quote": "There are no secrets to success. It is the result of preparation, hard work, and learning from failure.",
-      "author": "Collin Powell"
-    },
-    {
       "id": 3,
       "quote": "Don't count the days, make the days count.",
       "author": "Mike Tyson"
@@ -49,10 +44,6 @@
       "id": 10,
       "quote": "You know, failure hurts. Any kind of failure stings. If you live in the sting, you will undoubtedly fail. My way of getting past the sting is to say no, I’m just not going to let this get me down.",
       "author": "Sonia Sotomayor"
-    },
-    {
-      "quoteId": 2,
-      "id": 11
     },
     {
       "quote": "asd",
@@ -121,10 +112,6 @@
       "id": 12
     },
     {
-      "quoteId": 2,
-      "id": 13
-    },
-    {
       "quoteId": 4,
       "id": 14
     },
@@ -132,6 +119,96 @@
       "quoteId": 1,
       "createdAt": 1584416794531,
       "id": 15
+    },
+    {
+      "quoteId": 1,
+      "createdAt": 1584417204931,
+      "id": 16
+    },
+    {
+      "quoteId": 1,
+      "createdAt": 1584417205076,
+      "id": 17
+    },
+    {
+      "quoteId": 1,
+      "createdAt": 1584417205688,
+      "id": 18
+    },
+    {
+      "quoteId": 1,
+      "createdAt": 1584417413286,
+      "id": 19
+    },
+    {
+      "quoteId": 1,
+      "createdAt": 1584417446659,
+      "id": 20
+    },
+    {
+      "quoteId": 1,
+      "createdAt": 1584417508772,
+      "id": 21
+    },
+    {
+      "quoteId": 1,
+      "createdAt": 1584417906617,
+      "id": 22
+    },
+    {
+      "quoteId": 1,
+      "createdAt": 1584417949963,
+      "id": 23
+    },
+    {
+      "quoteId": 1,
+      "createdAt": 1584418016583,
+      "id": 24
+    },
+    {
+      "quoteId": 1,
+      "createdAt": 1584418027652,
+      "id": 25
+    },
+    {
+      "quoteId": 1,
+      "createdAt": 1584418110020,
+      "id": 26
+    },
+    {
+      "quoteId": 1,
+      "createdAt": 1584418144076,
+      "id": 27
+    },
+    {
+      "quoteId": 1,
+      "createdAt": 1584418192929,
+      "id": 28
+    },
+    {
+      "quoteId": 1,
+      "createdAt": 1584418236739,
+      "id": 29
+    },
+    {
+      "quoteId": 1,
+      "createdAt": 1584418280032,
+      "id": 30
+    },
+    {
+      "quoteId": 1,
+      "createdAt": 1584418280635,
+      "id": 31
+    },
+    {
+      "quoteId": 1,
+      "createdAt": 1584418281352,
+      "id": 32
+    },
+    {
+      "quoteId": 1,
+      "createdAt": 1584418282218,
+      "id": 33
     }
   ]
 }
