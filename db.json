@@ -79,6 +79,16 @@
       "quote": "de",
       "author": "ddedd",
       "id": 22
+    },
+    {
+      "quote": "abc",
+      "author": "def",
+      "id": 23
+    },
+    {
+      "quote": "def",
+      "author": "hij",
+      "id": 24
     }
   ],
   "likes": [
@@ -254,6 +264,26 @@
       "quoteId": 20,
       "createdAt": 1584418623967,
       "id": 38
+    },
+    {
+      "quoteId": 20,
+      "createdAt": 1584452465836,
+      "id": 39
+    },
+    {
+      "quoteId": 20,
+      "createdAt": 1584452472359,
+      "id": 40
+    },
+    {
+      "quoteId": 1,
+      "createdAt": 1584452531683,
+      "id": 41
+    },
+    {
+      "quoteId": 1,
+      "createdAt": 1584452586498,
+      "id": 42
     }
   ]
 }

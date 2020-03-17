@@ -4,8 +4,8 @@ document.addEventListener('DOMContentLoaded', () => {
 	document.addEventListener('submit', function(event) {
 		event.preventDefault()
 		addQuote(event)
-		removeQuotesFromPage()
-		loadQuotes()
+		// removeQuotesFromPage()
+		// loadQuotes()
 	})
 
 	document.addEventListener('click', function(event) {
@@ -34,7 +34,7 @@ function makeQuoteCard(quoteObject) {
       <p class="mb-0">${quoteObject.quote}</p>
       <footer class="blockquote-footer">${quoteObject.author}</footer>
       <br>
-      <button class=’btn-success’ id="score-${quoteObject.id}">Likes: <span class="score">${quoteObject.likes.length}</span></button>
+      <button class=’btn-success’ id="score-${quoteObject.id}">Likes: <span class="score">0</span></button>
       <button class=’btn-danger’>Delete</button>
     </blockquote>`
 	document.querySelector('.container').append(quoteCard)
@@ -69,7 +69,10 @@ function addQuote(event) {
 		.then(response => {
 			return response.json()
 		})
-		.then(result => console.log(result))
+		.then(result => {
+			console.log(result)
+			makeQuoteCard(result)
+		})
 }
 
 function deleteQuote(event) {
@@ -113,7 +116,7 @@ function addLike(event) {
 		})
 		.then(() => {
 			console.log(event.target.childNodes, 'in fetch')
-			event.target.childNodes[1].textContent++
+			console.log(event.target.querySelector('h1'))
 		})
 }
 
