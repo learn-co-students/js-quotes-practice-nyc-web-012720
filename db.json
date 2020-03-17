@@ -59,6 +59,26 @@
       "quote": "we",
       "author": "as",
       "id": 18
+    },
+    {
+      "quote": "a",
+      "author": "b",
+      "id": 19
+    },
+    {
+      "quote": "b",
+      "author": "c",
+      "id": 20
+    },
+    {
+      "quote": "dsdsd",
+      "author": "efe",
+      "id": 21
+    },
+    {
+      "quote": "de",
+      "author": "ddedd",
+      "id": 22
     }
   ],
   "likes": [
@@ -209,6 +229,31 @@
       "quoteId": 1,
       "createdAt": 1584418282218,
       "id": 33
+    },
+    {
+      "quoteId": 20,
+      "createdAt": 1584418621772,
+      "id": 34
+    },
+    {
+      "quoteId": 20,
+      "createdAt": 1584418623078,
+      "id": 35
+    },
+    {
+      "quoteId": 20,
+      "createdAt": 1584418623452,
+      "id": 36
+    },
+    {
+      "quoteId": 20,
+      "createdAt": 1584418623746,
+      "id": 37
+    },
+    {
+      "quoteId": 20,
+      "createdAt": 1584418623967,
+      "id": 38
     }
   ]
 }

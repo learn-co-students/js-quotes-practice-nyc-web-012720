@@ -70,7 +70,6 @@ function addQuote(event) {
 			return response.json()
 		})
 		.then(result => console.log(result))
-		.then(makeQuoteCard(newQuoteObject))
 }
 
 function deleteQuote(event) {
