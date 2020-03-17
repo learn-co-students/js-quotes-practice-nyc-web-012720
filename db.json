@@ -51,7 +51,8 @@
       "author": "Sonia Sotomayor"
     },
     {
-      "quoteId": 2,
+      "quote": "while true (learn)",
+      "author": "012720 cohort",
       "id": 11
     }
   ],
@@ -60,6 +61,38 @@
       "id": 1,
       "quoteId": 1,
       "createdAt": 1558524356
+    },
+    {
+      "quoteId": "11",
+      "id": 2
+    },
+    {
+      "quoteId": "11",
+      "id": 3
+    },
+    {
+      "quoteId": "1",
+      "id": 4
+    },
+    {
+      "quoteId": "2",
+      "id": 5
+    },
+    {
+      "quoteId": "2",
+      "id": 6
+    },
+    {
+      "quoteId": "2",
+      "id": 7
+    },
+    {
+      "quoteId": "11",
+      "id": 8
+    },
+    {
+      "quoteId": "11",
+      "id": 9
     }
   ]
 }
