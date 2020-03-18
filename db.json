@@ -1,14 +1,10 @@
 {
   "quotes": [
     {
-      "id": 1,
-      "quote": "The here and now is all we have, and if we play it right it's all we'll need.",
-      "author": "Ann Richards"
-    },
-    {
       "id": 2,
-      "quote": "There are no secrets to success. It is the result of preparation, hard work, and learning from failure.",
-      "author": "Collin Powell"
+      "quote": "asdasdsad",
+      "author": "sds",
+      "likes": 0
     },
     {
       "id": 3,
@@ -51,15 +47,65 @@
       "author": "Sonia Sotomayor"
     },
     {
-      "quoteId": 2,
+      "quote": "david",
+      "author": "david",
       "id": 11
     }
   ],
   "likes": [
     {
-      "id": 1,
-      "quoteId": 1,
-      "createdAt": 1558524356
+      "quoteId": 10,
+      "createdAt": 1584536028594,
+      "count": 20,
+      "id": 10
+    },
+    {
+      "quoteId": 3,
+      "createdAt": 1584536165391,
+      "count": 20,
+      "id": 3
+    },
+    {
+      "quoteId": 8,
+      "createdAt": 1584536167309,
+      "count": 21,
+      "id": 8
+    },
+    {
+      "quoteId": 9,
+      "createdAt": 1584536169176,
+      "count": 20,
+      "id": 9
+    },
+    {
+      "quoteId": 4,
+      "createdAt": 1584536198873,
+      "count": 20,
+      "id": 4
+    },
+    {
+      "quoteId": 5,
+      "createdAt": 1584536202590,
+      "count": 20,
+      "id": 5
+    },
+    {
+      "quoteId": 6,
+      "createdAt": 1584536207439,
+      "count": 20,
+      "id": 6
+    },
+    {
+      "quoteId": 7,
+      "createdAt": 1584536211668,
+      "count": 20,
+      "id": 7
+    },
+    {
+      "quoteId": 11,
+      "createdAt": 1584536255927,
+      "count": 21,
+      "id": 11
     }
   ]
 }
