@@ -51,8 +51,15 @@
       "author": "Sonia Sotomayor"
     },
     {
-      "quoteId": 2,
-      "id": 11
+      "quote": "I gotta poo",
+      "author": "Abe Lincoln ",
+      "id": 12
+    },
+    {
+      "quote": "Love.",
+      "author": "Jon",
+      "likes": [],
+      "id": 13
     }
   ],
   "likes": [
@@ -60,6 +67,164 @@
       "id": 1,
       "quoteId": 1,
       "createdAt": 1558524356
+    },
+    {
+      "quoteId": 2,
+      "id": 2
+    },
+    {
+      "quoteId": 3,
+      "id": 3
+    },
+    {
+      "quoteId": 4,
+      "id": 4
+    },
+    {
+      "quoteId": 4,
+      "id": 5
+    },
+    {
+      "quoteId": 2,
+      "id": 6
+    },
+    {
+      "quoteId": 3,
+      "id": 7
+    },
+    {
+      "quoteId": 3,
+      "id": 8
+    },
+    {
+      "quoteId": 3,
+      "id": 9
+    },
+    {
+      "quoteId": 3,
+      "id": 10
+    },
+    {
+      "quoteId": 3,
+      "id": 11
+    },
+    {
+      "quoteId": 5,
+      "id": 12
+    },
+    {
+      "quoteId": 2,
+      "id": 13
+    },
+    {
+      "quoteId": 6,
+      "createdAt": 1584557936039,
+      "id": 14
+    },
+    {
+      "quoteId": 6,
+      "createdAt": 1584558174432,
+      "id": 15
+    },
+    {
+      "quoteId": 6,
+      "createdAt": 1584558174714,
+      "id": 16
+    },
+    {
+      "quoteId": 6,
+      "createdAt": 1584558174876,
+      "id": 17
+    },
+    {
+      "quoteId": 6,
+      "createdAt": 1584558175037,
+      "id": 18
+    },
+    {
+      "quoteId": 6,
+      "createdAt": 1584558175198,
+      "id": 19
+    },
+    {
+      "quoteId": 6,
+      "createdAt": 1584558175349,
+      "id": 20
+    },
+    {
+      "quoteId": 6,
+      "createdAt": 1584558175526,
+      "id": 21
+    },
+    {
+      "quoteId": 2,
+      "createdAt": 1584558336357,
+      "id": 22
+    },
+    {
+      "quoteId": 2,
+      "createdAt": 1584558338041,
+      "id": 23
+    },
+    {
+      "quoteId": 1,
+      "createdAt": 1584558629681,
+      "id": 24
+    },
+    {
+      "quoteId": 1,
+      "createdAt": 1584558630344,
+      "id": 25
+    },
+    {
+      "quoteId": 2,
+      "createdAt": 1584558639608,
+      "id": 26
+    },
+    {
+      "quoteId": 3,
+      "createdAt": 1584558642095,
+      "id": 27
+    },
+    {
+      "quoteId": 3,
+      "createdAt": 1584558661244,
+      "id": 28
+    },
+    {
+      "quoteId": 1,
+      "createdAt": 1584558687004,
+      "id": 29
+    },
+    {
+      "quoteId": 1,
+      "createdAt": 1584558687664,
+      "id": 30
+    },
+    {
+      "quoteId": 2,
+      "createdAt": 1584558688704,
+      "id": 31
+    },
+    {
+      "quoteId": 2,
+      "createdAt": 1584558688901,
+      "id": 32
+    },
+    {
+      "quoteId": 1,
+      "createdAt": 1584559016980,
+      "id": 33
+    },
+    {
+      "quoteId": 8,
+      "createdAt": 1584564255587,
+      "id": 34
+    },
+    {
+      "quoteId": 7,
+      "createdAt": 1584564872683,
+      "id": 35
     }
   ]
 }
